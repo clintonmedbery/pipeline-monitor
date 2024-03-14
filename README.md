@@ -1,3 +1,6 @@
+![image](https://github.com/clintonmedbery/pipeline-monitor/assets/7118459/870d4cf9-760c-4c7f-b787-b037f15d8890)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
